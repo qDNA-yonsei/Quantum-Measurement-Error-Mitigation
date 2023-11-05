@@ -1,1 +1,1 @@
-# Quantum-Error-Mitigation
+# Quantum-Measurement-Error-Mitigation
